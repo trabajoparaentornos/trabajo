@@ -17,7 +17,7 @@ public class Persona //Nombre de la clase
 		/**
 		 * Atributo deportista: asignar un deportista como boolean a la persona
 		 */
-		private boolean deportista; // Deportista ( verdadero o falso (si o no)) la persona.
+		private boolean deportista; // Deportista (verdadero o falso (si o no)) la persona.
 
 		//Constructor
 		/**
