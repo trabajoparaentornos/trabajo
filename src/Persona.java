@@ -15,7 +15,7 @@ public class Persona //Nombre de la clase
 		 */
 		private int edad; // Edad de la persona.
 		/**
-		 * Atributo deportista: asignar un deportista como boleaan a la persona
+		 * Atributo deportista: asignar un deportista como boolean a la persona
 		 */
 		private boolean deportista; // Deportista ( verdadero o falso (si o no)) la persona.
 
