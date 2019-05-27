@@ -54,7 +54,9 @@ public class Persona //Nombre de la clase
 		 public int getEdad () {
 			 return edad; 
 			 } //Cierre del método
-//Método para establecer los edad.
+
+		
+		//Método para establecer los edad.
 		 /**
 		  * Método para establecer los edad.
 		  * @param laedad
@@ -78,7 +80,12 @@ public class Persona //Nombre de la clase
 		     */
 	    public void setDeportista (boolean eldeportista){
 	        this.deportista = eldeportista;// sabemos si la persona es o no es deportista.
-	    }//Cierre del método	  
+	    }//Cierre del método
+	    @Override
+	    public String toString() {
+			return "Persona [nombre=" + nombre + ", edad=" + edad + ", deportista=" + deportista + "]";
+		}
+
 	    /**
 	     * Cierre de la clase
 	     */
