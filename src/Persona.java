@@ -62,7 +62,7 @@ public class Persona //Nombre de la clase
 		    public void setEdad (int laedad){
 		        this.edad = laedad;//la edad de personacoge el valor que contenga "laedad"
 		    }//Cierre del método
-		    
+		     
 //Método para obtener si la persona es deportista o no.
 		    /**
 		     * Método para obtener si la persona es deportista o no.
